@@ -46,7 +46,7 @@ pom.xml中build加入以下内容
 ```
 src/main/resources/generator/MybatisGenerator.xml
 ```
-1. 复制根目录中的[generatorConfig.xml](https://github.com/byron1655/MyGenerator/blob/beta/v0.0.2/generatorConfig.xml)
+1. 复制根目录中的[generatorConfig.xml](https://github.com/byron1655/MyGenerator/blob/master/generatorConfig.xml)
 2. 将generatorConfig.xml改名为MybatisGenerator.xml
 3. 放置到src/main/resources/generator/中
 
